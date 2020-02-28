@@ -1,5 +1,5 @@
 
-class Main {
+public class Main {
 	public static void main(String args[]) throws Exception {
 		TabbedCalculator frame = new TabbedCalculator();
 		frame.setSize(500, 530);
